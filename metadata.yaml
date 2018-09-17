@@ -1,0 +1,26 @@
+_repo: Battle-of-New-Orleans-Its-Real-Meaning_52355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Folk, Reau E. (Reau Estes)
+    alias: Folk, Reau Estes
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '46807'
+    url: http://www.gutenberg.org/2009/agents/46807
+description: ''
+gutenberg_issued: '2016-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52355'
+  lccn: '35020342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans, Battle of, New Orleans, La., 1815'
+- !lcc 'E300'
+- GITenberg
+title: 'Battle of New Orleans: Its Real Meaning'
+url: http://www.gutenberg.org/ebooks/52355
